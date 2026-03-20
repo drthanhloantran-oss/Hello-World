@@ -1,2 +1,2 @@
 # Hello-World
-Kho lưu trữ này dùng để thực hành quy trình GitHub Flow.
+This Repo is created to practice GitHub Flow.
